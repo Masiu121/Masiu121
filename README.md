@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masiu121&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 - My favourite languages are Java and c#
-- I can write some simple console applications with JSON and other libraries.
+- I know how to write simple games with LibGDX or MonoGame and console apllications with json and other libraries
 
 [![Maksuu121's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masiu121&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
