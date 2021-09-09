@@ -12,8 +12,8 @@
   - Python
   - MySQL
   
-- My favourite languages are Java and c#
-- I know how to write simple games with LibGDX or MonoGame and console applications with JSON and other libraries
+* My favourite languages are Java and c#
+* I know how to write simple games with LibGDX or MonoGame and console applications with JSON and other libraries
 
 ## Current project
 
