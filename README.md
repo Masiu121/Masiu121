@@ -17,13 +17,13 @@
 
 ## Current project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Masiu121&repo=WWLT&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Masiu121&repo=WWLT&theme=darcula)](https://github.com/Masiu121/WWLT)
 
 # Stats
 
-[![Maksuu121's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masiu121&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Maksuu121's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masiu121&theme=darcula)](https://github.com/Masiu121)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masiu121&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masiu121&theme=darcula)](https://github.com/Masiu121?tab=repositories)
 
 <!---
 Masiu121/Masiu121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
