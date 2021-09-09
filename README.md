@@ -12,12 +12,12 @@
   - Python
   - MySQL
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masiu121&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masiu121&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
   
 - My favourite languages are Java and c#
 - I know how to write simple games with LibGDX or MonoGame and console applications with JSON and other libraries
 
-[![Maksuu121's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masiu121&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Maksuu121's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masiu121&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Masiu121/Masiu121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
