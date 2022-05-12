@@ -18,7 +18,7 @@
 
 ## Current project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Masiu121&repo=Saper&theme=darcula)](https://github.com/Masiu121/WWLT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Masiu121&repo=Saper&theme=darcula)](https://github.com/Masiu121/Saper)
 
 # Stats
 
